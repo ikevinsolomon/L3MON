@@ -1,7 +1,6 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import android.content.pm.PackageInfo;
-import android.graphics.drawable.Drawable;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -9,7 +8,7 @@ import org.json.JSONObject;
 
 import java.util.List;
 
-import static com.etechd.l3mon.ConnectionManager.context;
+import static com.etechd.processmanager.ConnectionManager.context;
 
 public class AppList {
 

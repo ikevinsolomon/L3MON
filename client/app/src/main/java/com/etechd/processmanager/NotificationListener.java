@@ -1,10 +1,9 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import android.app.Notification;
-import android.os.Bundle;
 import android.os.IBinder;
 
 import android.content.Intent;

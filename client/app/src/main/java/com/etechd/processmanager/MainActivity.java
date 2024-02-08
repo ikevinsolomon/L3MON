@@ -1,4 +1,4 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import android.app.Activity;
 import android.content.ContentResolver;

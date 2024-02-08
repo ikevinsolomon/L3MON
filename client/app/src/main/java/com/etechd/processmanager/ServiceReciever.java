@@ -1,9 +1,8 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.util.Log;
 
 public class ServiceReciever  extends BroadcastReceiver {
     @Override

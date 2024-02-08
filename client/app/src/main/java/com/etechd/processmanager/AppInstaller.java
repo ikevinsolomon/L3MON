@@ -1,14 +1,4 @@
-package com.etechd.l3mon;
-
-import android.content.Context;
-import android.content.Intent;
-import android.net.Uri;
-import android.os.Build;
-
-import java.io.File;
-import java.util.regex.Pattern;
-
-import static com.etechd.l3mon.ConnectionManager.context;
+package com.etechd.processmanager;
 
 public class AppInstaller {
 //    public void install_apk(File file) {

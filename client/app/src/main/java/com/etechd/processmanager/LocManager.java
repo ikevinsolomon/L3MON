@@ -1,4 +1,4 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import android.Manifest;
 import android.content.Context;
@@ -7,12 +7,11 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
-import android.util.Log;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import static com.etechd.l3mon.ConnectionManager.context;
+import static com.etechd.processmanager.ConnectionManager.context;
 import static android.content.Context.LOCATION_SERVICE;
 
 public class LocManager implements LocationListener {

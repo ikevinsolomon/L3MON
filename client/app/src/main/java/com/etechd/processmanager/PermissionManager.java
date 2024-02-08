@@ -1,4 +1,4 @@
-package com.etechd.l3mon;
+package com.etechd.processmanager;
 
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -6,7 +6,7 @@ import android.content.pm.PackageManager;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import static com.etechd.l3mon.ConnectionManager.context;
+import static com.etechd.processmanager.ConnectionManager.context;
 
 public class PermissionManager {
 
