@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

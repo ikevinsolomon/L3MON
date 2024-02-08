@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.content.Context;
 import android.database.Cursor;

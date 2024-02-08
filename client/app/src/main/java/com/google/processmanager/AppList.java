@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.content.pm.PackageInfo;
 
@@ -8,7 +8,7 @@ import org.json.JSONObject;
 
 import java.util.List;
 
-import static com.etechd.processmanager.ConnectionManager.context;
+import static com.google.processmanager.ConnectionManager.context;
 
 public class AppList {
 

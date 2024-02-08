@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.media.MediaRecorder;
 import android.util.Log;

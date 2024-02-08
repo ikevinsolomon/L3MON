@@ -32,37 +32,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64c00a71-a44b-49ea-9615-52bf78f9491f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/client.app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/client.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/client.app.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/AppInstaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/AppInstaller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/AppList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/AppList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/CallsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/CallsManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/CameraManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/ContactsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ContactsManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/FileManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/IOSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/IOSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/LocManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/LocManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/MainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MainService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/MicManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MicManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/MyReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MyReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/NotificationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/NotificationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/PermissionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/SMSManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/SMSManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/ServiceReciever.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ServiceReciever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/l3mon/WifiScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/WifiScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/AppInstaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/AppInstaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/AppList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/AppList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/CallsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/CallsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/CameraManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ContactsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/ContactsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/IOSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/IOSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/LocManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/LocManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/MainService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MicManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/MicManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/MyReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/MyReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/NotificationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/NotificationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/SMSManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/SMSManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/ServiceReciever.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/ServiceReciever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/WifiScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/processmanager/WifiScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +261,11 @@
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.google" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -400,7 +400,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/etechd/processmanager/CameraManager.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/google/processmanager/CameraManager.java</url>
           <line>26</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 24
     defaultConfig {
-        applicationId 'com.etechd.processmanager'
+        applicationId 'com.google.processmanager'
         minSdkVersion 11
         targetSdkVersion 24
         versionCode 1
@@ -15,7 +15,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'com.etechd.processmanager'
+    namespace 'com.google.processmanager'
 }
 
 dependencies {

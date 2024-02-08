@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -6,7 +6,7 @@ import android.content.pm.PackageManager;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import static com.etechd.processmanager.ConnectionManager.context;
+import static com.google.processmanager.ConnectionManager.context;
 
 public class PermissionManager {
 

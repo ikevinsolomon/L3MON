@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 public class AppInstaller {
 //    public void install_apk(File file) {

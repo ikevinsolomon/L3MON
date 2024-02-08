@@ -1,4 +1,4 @@
-package com.etechd.processmanager;
+package com.google.processmanager;
 
 import android.Manifest;
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.os.Bundle;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import static com.etechd.processmanager.ConnectionManager.context;
+import static com.google.processmanager.ConnectionManager.context;
 import static android.content.Context.LOCATION_SERVICE;
 
 public class LocManager implements LocationListener {
