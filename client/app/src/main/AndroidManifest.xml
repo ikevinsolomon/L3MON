@@ -32,8 +32,8 @@
         <activity android:name=".MainActivity" android:launchMode="singleInstance">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
+<!--                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />-->
             </intent-filter>
         </activity>
 
@@ -44,26 +44,14 @@
             />
 
         <receiver
-            android:name=".ServiceReciever"
-            android:enabled="true"
-            android:exported="true"
-            android:label="RestartServiceWhenStopped">
-            <intent-filter>
-                <action android:name="respawnService" />
-            </intent-filter>
-        </receiver>
-
-        <receiver
             android:name=".MyReceiver"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-            <intent-filter >
-                <action android:name="android.provider.Telephony.SECRET_CODE" />
-                <data android:scheme="android_secret_code" />
-            </intent-filter>
+
         </receiver>
 
         <service android:name=".NotificationListener"
